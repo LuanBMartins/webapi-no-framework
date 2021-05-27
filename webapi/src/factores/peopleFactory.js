@@ -13,4 +13,4 @@ const generateInstance = () => {
 
 module.exports = {generateInstance}
 
-generateInstance().find(1).then(console.log)
+// generateInstance().find(1).then(console.log)
